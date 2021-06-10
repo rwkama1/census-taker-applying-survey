@@ -1,0 +1,16 @@
+{
+  "name": "census-taker-applying-survey",
+  "version": "1.0.0",
+  "description": "A census taker collects certain data by applying surveys for the latest National Population and Housing Census. You want to obtain from all the people you can survey in one day, what percentage have primary, secondary, technical career, professional studies, and postgraduate studies.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/census-taker-applying-survey"
+  },
+ 
+  "keywords": ["js","javascript","survey","backend"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
